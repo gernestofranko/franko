@@ -1,0 +1,4 @@
+Pendientes---------------
+Validar que solo un usuario con el mismo nombre pueda haber
+Agregar fecha a la tabla
+Agregar sexo
